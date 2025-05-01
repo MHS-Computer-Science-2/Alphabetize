@@ -26,7 +26,7 @@ int main()
     for (int i = 0; i < poem.size(); i++) {
         cout << poem[i] << endl;
     }
-
+    cout << endl;
 
     //BUBBLE SORT THE VECTOR IN REVERSE ALPHABETICAL ORDER
     //Hint: You only have to change 1 symbol from the normal alphabetical order
